@@ -6,6 +6,8 @@ I picked up a build kit from the good people at [Mechboards UK](https://mechboar
 
 Before long I wondered what else could be dropped on the OLED screens apart from the default, so here we are!
 
+Aside: Please do check out the awesome [Discord community for Mechboards UK](https://discord.com/channels/336826782772756481/808407534406336552)
+
 # Why?
 
 ![Bongocat](https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif)
